@@ -37,12 +37,12 @@ canvas {
 }
 
 a {
-  color: #2c98f0;
+  color: #f04f24;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #2c98f0;
+    color: #f04f24;
     outline: none;
     text-decoration: none !important; }
 
@@ -116,7 +116,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-    background-color: #3498db;
+    background-color: #f04f24;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -522,7 +522,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .hire {
   padding: 2em;
-  background: #3498db; }
+  background: #f04f24; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
